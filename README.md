@@ -45,4 +45,6 @@ _cursiva_  y ahora no  cursiva
 
 *"cursiva"*   y no cursiva
 
+texto normal  ¨¨texto tachado¨¨
+
 
