@@ -64,11 +64,11 @@ texto normal  ~~texto tachado~~
 
 * primero
 * segundo
- * segundo1
- * segundo2
+   * segundo1
+   * segundo2
 * tercero
- * tercero1
- * tercero2
+   * tercero1
+   * tercero2
   
   
  
