@@ -50,9 +50,9 @@ texto normal  ~~texto tachado~~
 #listas
 
 1. a
-  1.a1
-  1.a2
-  1.a3
+  1. a1
+  1. a2
+  1. a3
 1. b
 1.c
   1. c1
