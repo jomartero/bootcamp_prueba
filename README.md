@@ -89,6 +89,13 @@ vemos los enlaces por referencia
 
 ![foto](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/300px-Arduino_Uno_-_R3.jpg "placa")
 
+# TABLAS
+
+|Cabecera1 |Cabecera2 |Cabecera3 |
+|----------|---------:|:---------|
+|celda 1 a | celda 2a | celda 3a |
+|celda 1b  | celda 2b | celda 3b |
+
 
 
 
