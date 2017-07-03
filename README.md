@@ -18,6 +18,11 @@ cabeceras con las # de 1 a 6# mira
 
 ## mas chico
 
+
+
+
+
+
 ### y mas todavía
 
 cabecera1
@@ -31,4 +36,9 @@ cabecera1
 > cita2
 
 >cita3
+
+no es negrita **si es negrita**
+
+no es negrita  __si es negrita__
+
 
