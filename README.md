@@ -61,7 +61,14 @@ texto normal  ~~texto tachado~~
   
 1. c
 
-  
+
+* primero
+* segundo
+ * segundo1
+ * segundo2
+* tercero
+ * tercero1
+ * tercero2
   
   
  
