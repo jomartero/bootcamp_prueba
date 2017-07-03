@@ -43,5 +43,6 @@ no es negrita  __si es negrita__
 
 _cursiva_  y ahora no  cursiva
 
+*"cursiva"*   y no cursiva
 
 
