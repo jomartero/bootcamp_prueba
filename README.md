@@ -87,7 +87,9 @@ vemos los enlaces por referencia
 [Enlace por referencia][1]
 
 
-![foto](https://www.google.es/search?hl=es&authuser=0&site=imghp&tbm=isch&source=hp&biw=1366&bih=638&q=arduino&oq=arduino&gs_l=img.3..0l10.25704.28553.0.29120.8.8.0.0.0.0.132.645.5j2.7.0....0...1.1.64.img..1.7.642.0.ZQEzRqk1e8w#imgrc=cF2WZlV2ePrKtM: "placa")
+![foto](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/300px-Arduino_Uno_-_R3.jpg "placa")
+
+
 
 
 
