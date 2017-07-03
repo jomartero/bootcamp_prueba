@@ -41,6 +41,7 @@ no es negrita **si es negrita**
 
 no es negrita  __si es negrita__
 
-_cursiva_
+_cursiva_  y ahora no  cursiva
+
 
 
