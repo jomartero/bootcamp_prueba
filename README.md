@@ -14,8 +14,8 @@ y otro mass
 
 cabeceras con las # de 1 a 6# mira
 
-#grande
+# grande
 
-##mas chico
+## mas chico
 
-###y mas todavía
+### y mas todavía
